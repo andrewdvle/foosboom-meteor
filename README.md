@@ -1,1 +1,2 @@
-# foosboom-meteor [http://www.webtempest.com/meteorjs-fromscratch-1]
+# foosboom-meteor
+# from http://www.webtempest.com/meteorjs-fromscratch-1
